@@ -1,10 +1,10 @@
-# Sujal Dave 🚀
-### Sr. Full Stack Flutter Developer 
+# Sujal Dave 👋
+### Sr. Full Stack Flutter Developer 🚀
 
 ## Technologies I Work With
 
-- **Backend**: Node.js, Express.js, SQL, MongoDB
-- **Frontend**: Flutter, FlutterFlow, Android
+- **Backend**: Node.js, Express.js, SQL, MongoDB 💻
+- **Frontend**: Flutter, FlutterFlow, Android 📲
 
 ## What I Offer
 
