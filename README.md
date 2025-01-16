@@ -22,6 +22,7 @@
 ## Get in Touch
 
 Feel free to explore my repositories and reach out if you have any questions or if you'd like to collaborate on a project. Let's build something amazing together!
+
 For Training and Job Placement Contact me:- 
 
 - **Email**: [sujaldave880@gmail.com](mailto:sujaldave880@gmail.com)
