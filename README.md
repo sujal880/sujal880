@@ -1,8 +1,7 @@
 # Hi, I'm Sujal Dave 👋
 ### Sr. Full Stack Flutter Developer & Mentor 🚀
 ### For Training and Job Placement Contact me:-
-### Email: sujaldave880@gmail.com
-### Phone Number: +91 6350339804
+
 
 ## Technologies I Work With
 
@@ -26,5 +25,3 @@
 
 Feel free to explore my repositories and reach out if you have any questions or if you'd like to collaborate on a project. Let's build something amazing together!
 
-- **Email**: [sujaldave880@gmail.com](mailto:sujaldave880@gmail.com)
-- **Phone Number**: [+916350339804](contact:+916350339804)
