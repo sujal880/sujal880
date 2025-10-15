@@ -1,7 +1,7 @@
 # Hi, I'm Sujal Dave 👋
 ### Sr. Full Stack Flutter Developer & Mentor 🚀
 
-## For Training Job Placements & Services
+## For Application, Web Development, AI Software Development
 ## Contact me: sujaldave880@gmail.com 
 
 ## Technologies I Work With
