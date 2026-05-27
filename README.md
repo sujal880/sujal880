@@ -1,13 +1,11 @@
 # Hi, I'm Sujal Dave 👋
 ### Sr. Full Stack Flutter Developer & Mentor 🚀
-
+## Contact me: sujaldave880@gmail.com
 ## For Application, Web Development, AI Software Development
-## Contact me: sujaldave880@gmail.com 
-
 ## Technologies I Work With
 
 - **Backend**: Node.js, Express.js, SQL, MongoDB 💻
-- **Frontend**: Flutter, FlutterFlow, Android 📲
+- **Frontend**: Flutter, AI, FlutterFlow, Android iOS etc.📲
 
 ## What I Offer
 
